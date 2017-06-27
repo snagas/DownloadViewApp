@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Download View App</string>
+    <string name="read">READ</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="connectionResponseCode">Response code of connection : %d</string>
+    <string name="apiKeyMissing">API key is missing</string>
+    <string name="waitForDownloadFinish">Press download first, or wait if you already did</string>
+    <string name="statusPrintToTextView">Status:</string>
+    <string name="SourcePrintToTextView">Source:</string>
+    <string name="downloadFinished">Download Finished</string>
+    <string name="checkInternet">Check internet connection</string>
+    <string name="removeOldDataButton">Remove data</string>
+    <string name="connectionError">Nepavyko gauti duomenu is serverio</string>
+    <string name="Hello_world">Hello World!</string>
+</resources>
